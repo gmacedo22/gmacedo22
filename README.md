@@ -4,10 +4,10 @@
 
 Soy un Ingeniero Mecatronico apasionado por el mundo de la programación, enfocado en Data Science.
 
-* Actualmente estoy terminando mi bootcamp de Cientifico de Datos en TripleTen Latam.
-* Estoy estudiando y practicando los lenguajes de programación Python y SQL.
-* Tengo habilidades en Machine Learning y analisis de base de datos
-* Quieres contactarme [![Linkedin Badge](https://img.shields.io/badge/-Gerardo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gerardo-macedo-ayon/)
+* Actualmente estoy finalizando el Bootcamp de Científico de Datos en TripleTen Latam, donde he adquirido habilidades sólidas en análisis de datos y Machine Learning.
+* Estoy perfeccionando mis conocimientos en Python y SQL, aplicándolos en proyectos prácticos para resolver problemas reales.
+* Tengo experiencia en el análisis de bases de datos, creación de modelos predictivos y generación de insights para la toma de decisiones estratégicas.
+* Estoy abierto a nuevas oportunidades y conexiones profesionales. ¡No dudes en contactarme[![Linkedin Badge](https://img.shields.io/badge/-Gerardo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gerardo-macedo-ayon/)
 
 
 
