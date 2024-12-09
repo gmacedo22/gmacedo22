@@ -1,6 +1,6 @@
 ## Hola soy Gerardo. ¡Encantado de conocerte!👋
 
-###Sobre mí:
+### Sobre mí:
 
 Soy un Ingeniero Mecatronico apasionado por el mundo de la programación, enfocado en Data Science.
 
