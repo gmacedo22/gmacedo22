@@ -9,7 +9,7 @@ Soy un Ingeniero Mecatronico apasionado por el mundo de la programación, enfoca
 * Tengo experiencia en el análisis de bases de datos, creación de modelos predictivos y generación de insights para la toma de decisiones estratégicas.
 * Estoy abierto a nuevas oportunidades y conexiones profesionales. ¡No dudes en contactarme!
 
->[![Linkedin Badge](https://img.shields.io/badge/-Gerardo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gerardo-macedo-ayon/)
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-Gerardo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gerardo-macedo-ayon/) -->
 
 
 
